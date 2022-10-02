@@ -1,17 +1,7 @@
 ### Hi there 👋
+__An advocate of data-driven decisions, with a personal interest in finance. I aim to gain exposure to Financial institutions and how they work with data to make daily business decisions. Also for the opportunity to work closely with readily available data, research financial instruments and help people make smarter decisions with their investments.
 
 
 
 
-
-
-- 🔭 I’m currently working on Data Analytics
-- 🌱 I’m currently learning how to build Insightful Bi dashboards
-- 👯 I’m looking to collaborate on Data Analytics challenge projects
-
-- 🤔 I’m looking for help with diving deeper into Data Analytics
-- 💬 Ask me about #Datainsights #finance #Tech
-- 📫 How to reach me: https://twitter.com/nettynelly
-- 😄 Pronouns: ...(He/Him/His)
-- ⚡ Fun fact: can use 14 computer Applications fluently
 
